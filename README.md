@@ -29,13 +29,16 @@ I would love to connect and collaborate on future projects! 😀
 ## 📫 Contact Me 
 
 • Email: maitphm@gmail.com
+
 • LinkedIn: https://www.linkedin.com/in/maitphm/
 
 
 ## 🌱 Currently, I am... 
 
 • Learning Python
-• Learning Data Structures & Algorithms 
+
+• Learning Data Structures & Algorithms
+
 • Reading 'Cracking the Coding Interview' 
 
 
