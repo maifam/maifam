@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **maifam/maifam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,7 +24,7 @@ When I am not coding and learning about new technologies, I love to spend time o
 
 I would love to connect and collaborate on future projects! 😀
 
-# 📫 Contact Me 
+## 📫 Contact Me 
 
 • Email: maitphm@gmail.com
 • LinkedIn: https://www.linkedin.com/in/maitphm/
