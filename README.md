@@ -1,3 +1,4 @@
+![Simple Work Blog Banner](https://user-images.githubusercontent.com/72598552/118063236-a919ab80-b366-11eb-91f0-20fd9ae27217.png)
 # Hi there 👋
 
 <!--
