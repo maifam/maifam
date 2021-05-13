@@ -20,6 +20,8 @@ Growing up during the birth of Facebook and Myspace, I fell in love with coding 
 
 The immersive rigorous program taught me not only Ruby on Rails, Javascript, React, Redux, CSS, HTML, PostgreSQL and SQL, but it taught me time-management and patience. In March 2021, I completed Flatiron School's Software Engineer program. 
 
+### ⚡ Fun fact: 
+
 When I am not coding and learning about new technologies, I love to spend time outdoors hiking 🏔, traveling 🌍 and eating 🍽! 
 
 I would love to connect and collaborate on future projects! 😀
@@ -30,9 +32,11 @@ I would love to connect and collaborate on future projects! 😀
 • LinkedIn: https://www.linkedin.com/in/maitphm/
 
 
-# 🌱 Currently, I am... 
+## 🌱 Currently, I am... 
 
 • Learning Python
 • Learning Data Structures & Algorithms 
 • Reading 'Cracking the Coding Interview' 
+
+
 
