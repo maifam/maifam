@@ -36,8 +36,6 @@ I would love to connect and collaborate on future projects! 😀
 
 ## 🌱 Currently, I am... 
 
-• Learning Python
-
 • Learning Data Structures & Algorithms
 
 • Reading 'Cracking the Coding Interview' 
