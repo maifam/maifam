@@ -29,11 +29,21 @@ I would love to connect and collaborate on future projects! 😀
 
 ## 📫 Contact Me 
 
-• Email: maitphm@gmail.com
+<div align="center">
+ </a>
+<a href="mailto:maitphm@gmail.com">
+<img src="https://img.shields.io/badge/email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+</a>
+<a href="https://maipham.dev/">
+<img src="https://img.shields.io/badge/Portfolio-042549?style=for-the-badge&logo=moleculer&logoColor=white" alt="portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/maitpham">
+<img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+</a>
+<a href="https://maitphm.medium.com/">
+<img src="https://img.shields.io/badge/medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="medium" />
 
-• LinkedIn: https://www.linkedin.com/in/maitphm/
-
-• Website: https://maipham.dev
+</div>
 
 ## 🌱 Currently, I am... 
 
