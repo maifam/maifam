@@ -44,6 +44,5 @@ I would love to connect and collaborate on future projects! 😀
 
 
 <div align='center'>
-  ![](https://komarev.com/ghpvc/?username=maifam&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=maifam&label=Profile+Views)
 </div>
-
