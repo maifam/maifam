@@ -41,7 +41,7 @@ I would love to connect and collaborate on future projects! 😀
 <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /> 
 </a>
 <a href="https://mtphm.medium.com/" target='_blank'>
-<img src="https://img.shields.io/badge/medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="medium" />
+<img src="https://img.shields.io/badge/medium-gray?style=for-the-badge&logo=medium&logoColor=white" alt="medium" />
 
 </div>
 
