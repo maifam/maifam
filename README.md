@@ -32,16 +32,16 @@ I would love to connect and collaborate on future projects! 😀
 <div align="center">
  </a>
 <a href="mailto:maitphm@gmail.com">
-<img src="https://img.shields.io/badge/email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=gray" alt="gmail" />
+<img src="https://img.shields.io/badge/email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white alt="gmail" />
 </a>
 <a href="https://maipham.dev/" target='_blank'> 
-<img src="https://img.shields.io/badge/Portfolio-042549?style=for-the-badge&logo=moleculer&logoColor=teal" alt="portfolio" target='_blank'/>
+<img src="https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=moleculer&logoColor=black" alt="portfolio" target='_blank'/>
 </a>
 <a href="https://www.linkedin.com/in/maitpham" target='_blank'>
-<img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=red" alt="linkedin" /> 
+<img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /> 
 </a>
 <a href="https://mtphm.medium.com/" target='_blank'>
-<img src="https://img.shields.io/badge/medium-black?style=for-the-badge&logo=medium&logoColor=gray" alt="medium" />
+<img src="https://img.shields.io/badge/medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="medium" />
 
 </div>
 
