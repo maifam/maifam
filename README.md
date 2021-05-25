@@ -32,10 +32,10 @@ I would love to connect and collaborate on future projects! 😀
 <div align="center">
  </a>
 <a href="mailto:maitphm@gmail.com">
-<img src="https://img.shields.io/badge/email%20me-gray?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+<img src="https://img.shields.io/badge/email%20me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
 </a>
 <a href="https://maipham.dev/" target='_blank'> 
-<img src="https://img.shields.io/badge/Website-white?style=for-the-badge&logo=moleculer&logoColor=black" alt="portfolio" target='_blank'/>
+<img src="https://img.shields.io/badge/Website-teal?style=for-the-badge&logo=moleculer&logoColor=black" alt="portfolio" target='_blank'/>
 </a>
 <a href="https://www.linkedin.com/in/maitpham" target='_blank'>
 <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /> 
