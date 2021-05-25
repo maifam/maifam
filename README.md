@@ -41,8 +41,10 @@ I would love to connect and collaborate on future projects! 😀
 
 • Reading 'Cracking the Coding Interview' 
 
-
+---
 
 <div align='center'>
+ 
 ![](https://komarev.com/ghpvc/?username=maifam&label=Profile+Views)
+ 
 </div>
