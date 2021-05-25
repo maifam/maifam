@@ -27,15 +27,15 @@ When I am not coding and learning about new technologies, I love to spend time o
 
 I would love to connect and collaborate on future projects! 😀
 
-## 📫 Contact Me 
+## 📫 Let's Connect 
 
 <div align="center">
  </a>
 <a href="mailto:maitphm@gmail.com">
-<img src="https://img.shields.io/badge/email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+<img src="https://img.shields.io/badge/email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" target='_blank' alt="gmail" />
 </a>
 <a href="https://maipham.dev/">
-<img src="https://img.shields.io/badge/Portfolio-042549?style=for-the-badge&logo=moleculer&logoColor=white" alt="portfolio" />
+<img src="https://img.shields.io/badge/Portfolio-042549?style=for-the-badge&logo=moleculer&logoColor=white" target='_blank' alt="portfolio" />
 </a>
 <a href="https://www.linkedin.com/in/maitpham">
 <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
