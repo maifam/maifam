@@ -34,7 +34,7 @@ I would love to connect and collaborate on future projects! 😀
 <a href="mailto:maitphm@gmail.com">
 <img src="https://img.shields.io/badge/email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
 </a>
-<a href="https://maipham.dev/"> target='_blank'
+<a href="https://maipham.dev/" target='_blank'> 
 <img src="https://img.shields.io/badge/Portfolio-042549?style=for-the-badge&logo=moleculer&logoColor=white"  alt="portfolio" />
 </a>
 <a href="https://www.linkedin.com/in/maitpham">
