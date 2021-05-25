@@ -38,7 +38,7 @@ I would love to connect and collaborate on future projects! 😀
 <img src="https://img.shields.io/badge/Portfolio-042549?style=for-the-badge&logo=moleculer&logoColor=white"  alt="portfolio" />
 </a>
 <a href="https://www.linkedin.com/in/maitpham">
-<img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+<img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /> target='_blank'
 </a>
 <a href="https://mtphm.medium.com/">
 <img src="https://img.shields.io/badge/medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="medium" />
