@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 
 Growing up during the birth of Facebook and Myspace, I fell in love with coding and have always been curious with the development of web applications. During the pandemic, I utilized my time delving deeper into coding. I commited to Flatiron School after teaching myself Ruby for two months. 
 
-The immersive rigorous program taught me not only Ruby on Rails, Javascript, React, Redux, CSS, HTML, PostgreSQL and SQL, but it taught me time-management and patience. In March 2021, I completed the Software Engineer Program at Flatiron School. 
+The immersive rigorous Software Enginerring program taught me not only Ruby on Rails, Javascript, React, Redux, CSS, HTML, PostgreSQL and SQL, but it taught me time-management and patience in learning. In March 2021, I completed the Software Engineer Program at Flatiron School.
 
 ### ⚡ Fun fact: 
 
-When I am not coding and learning about new technologies, I love to spend time outdoors hiking 🏔, traveling 🌍 and eating 🍽! 
+When I am not coding and learning about new technologies, I love to spend time outdoors hiking 🏔, traveling the world 🌍 and eating delicious food 🍽! I also love meeting new people.
 
-I would love to connect and collaborate on future projects! 😀
+I would love to connect and collaborate on future projects together! 😀
 
 ## 📫 Let's Connect 
 
