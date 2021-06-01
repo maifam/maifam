@@ -15,11 +15,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- My name is Mai, I am a software engineer with six (6) years of experience in addictions rehab and mental health. I'm a person who strives to understand and help people. I am eager to connect my interpersonal skills along with my technical problem solving skills. 
+ My name is Mai, I am a software engineer with six (6) years of experience in mental health and addictions. I'm a person who strives to understand and help people. I am eager to connect my interpersonal skills along with my technical problem solving skills. 
 
 Growing up during the birth of Facebook and Myspace, I fell in love with coding and have always been curious with the development of web applications. During the pandemic, I utilized my time delving deeper into coding. I commited to Flatiron School after teaching myself Ruby for two months. 
 
 The immersive rigorous Software Enginerring program taught me not only Ruby on Rails, Javascript, React, Redux, CSS, HTML, PostgreSQL and SQL, but it taught me time-management and patience in learning. In March 2021, I completed the Software Engineer Program at Flatiron School.
+
+I am currently searching for opportunities to contribute my skills as well as learn and grow deeper in the tech world. 
 
 ### ⚡ Fun fact: 
 
