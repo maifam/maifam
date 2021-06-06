@@ -44,12 +44,13 @@ I would love to connect and collaborate on future projects together! 😀
 </a>
 <a href="https://mtphm.medium.com/" target='_blank'>
 <img src="https://img.shields.io/badge/Medium-gray?style=for-the-badge&logo=medium&logoColor=white" alt="medium" target='_blank' />
+</a>
 
 </div>
 
 ## 🌱 Currently, I am... 
 
-• Interning at <a href="www.constructiondisputes.com">Construction Disputes, LLC</a>
+• Interning at <a href="https://constructiondisputes.com">Construction Disputes, LLC</a>
 
 • Learning Data Structures & Algorithms
 
