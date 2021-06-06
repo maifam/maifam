@@ -53,7 +53,7 @@ I would love to connect and collaborate on future projects together! 😀
 
 • Learning Data Structures & Algorithms
 
-• 
+• Open for full-time opportunites! 
 
 ---
 
