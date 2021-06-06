@@ -49,7 +49,7 @@ I would love to connect and collaborate on future projects together! 😀
 
 ## 🌱 Currently, I am... 
 
-• Interning at <a href="www.constructiondisputes.com">Construction Disputes, LLC</>
+• Interning at <a href="www.constructiondisputes.com">Construction Disputes, LLC</a>
 
 • Learning Data Structures & Algorithms
 
