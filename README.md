@@ -56,16 +56,18 @@ I would love to connect and collaborate on future projects together! 😀
 
 • Open for full-time opportunites! 
 
----
+
 <!-- Begin: HubSpot Academy - Inbound Badge -->
 <div class='academy-badge'>
 <a href='http://academy.hubspot.com/certification' title='Inbound'>
-<img src='https://hubspot-academy.s3.amazonaws.com/prod/tracks/user-badges/25036000/28aff57144db4dbcb0b6651090f5b287-1623027807754.png' />
+<img src='https://app.hubspot.com/academy/achievements/m96n7dzk/en/1/mai-pham/inbound' />
 </a>
 </div>
+
+
 <!-- End: HubSpot Academy - Inbound Badge -->
 
---
+---
 
 <div align='center'>
  
