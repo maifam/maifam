@@ -59,9 +59,9 @@ I would love to connect and collaborate on future projects together! 😀
 
 --- 
 
-<div align='center' size='small'>
+<div align='center'>
 <a href='http://academy.hubspot.com/certification' title='Inbound'>
-<img src='https://hubspot-academy.s3.amazonaws.com/prod/tracks/user-badges/25036000/28aff57144db4dbcb0b6651090f5b287-1623027807754.png' />
+<img src='https://hubspot-academy.s3.amazonaws.com/prod/tracks/user-badges/25036000/28aff57144db4dbcb0b6651090f5b287-1623027807754.png' style='font-size:15px' />
 </a>
 </div>
 
